@@ -16,6 +16,15 @@ For `Gin` learning, a Go web framework.
 ## learn_3, Config hot reload by `fresh` package
 
 1. `go get github.com/pilu/fresh`
+
 2. init run project using `fresh`.(generate a tmp/)
+
 3. It'll do hot reload automatically every time you save your code.
+
+## learn_4, Restful API
+
+* Get sf Retrieve
+* Post sf Create
+* Put sf Update
+* Delete sf Delete
 
