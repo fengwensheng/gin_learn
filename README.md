@@ -28,3 +28,10 @@ For `Gin` learning, a Go web framework.
 * Put sf Update
 * Delete sf Delete
 
+## learn_5, return type
+
+* string
+* json
+* `Jsonp`, cross-domain, request format is `...?callback=xxx`
+* xml
+* `html`, return html template, must config `LoadHTMLGlob` templates first.
